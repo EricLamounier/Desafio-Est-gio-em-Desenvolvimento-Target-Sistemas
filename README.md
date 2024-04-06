@@ -1,9 +1,9 @@
 # Desafio Estágio em Desenvolvimento Target Sistemas
 
 1. Questão 1
-    - Resposta: 91 [Código]()
+    - Resposta: 91 [Código](https://github.com/EricLamounier/Desafio-Estagio-em-Desenvolvimento-Target-Sistemas/blob/main/problema1.c)
 2. Questão 2
-    - Por exemplo, para numero 10:
+    - Por exemplo, para numero 10: [Código](https://github.com/EricLamounier/Desafio-Estagio-em-Desenvolvimento-Target-Sistemas/blob/main/problema2.c)
 ```
 10 não está contido na sequência de fibonacci.
 ```
@@ -29,7 +29,7 @@
 ```
 
 5. Questão 5
-    - Por exemplo, para uma <i>palavra</i>: [Código]()
+    - Por exemplo, para uma <i>palavra</i>: [Código](https://github.com/EricLamounier/Desafio-Estagio-em-Desenvolvimento-Target-Sistemas/blob/main/problema2.c)
 ```
 A palavra reversa será: arvalap
 ```
