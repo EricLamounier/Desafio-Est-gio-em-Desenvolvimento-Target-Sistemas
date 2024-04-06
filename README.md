@@ -18,14 +18,13 @@
 
 4. Questão 4:
 ```
-    1. Primeiramente, liga-se um dos interruptores e deixa ligado por um tempo para a lâmpada esquentar.
-    2. Desliga a lâmpada anterior e liga outra lâmpada.
-    3. Vai para alguma sala.
-        3.1. Caso a lâmpada estiver acesa esta lampada é relacionada ao interruptor que está ligado.
-        3.2. Caso a lâmpada estiver  apagada.
-            3.2.1 Caso estiver quente, esta lâmpada está relacionada ao interruptor que ficou ligado e depois desligado.
-
-            3.2.2 Caso estiver frio, esta lâmpada está relacionada ao interruptor que nunca foi ligado.
+1. Comece ligando um dos interruptores e deixe a lâmpada acesa por um período para aquecer.
+2. Desligue a primeira lâmpada e ligue outra em seu lugar.
+3. Em seguida, vá para outra sala.
+4. Se a segunda lâmpada estiver acesa, isso indica que o interruptor que você inicialmente ligou está associado a ela.
+5. Se a segunda lâmpada estiver apagada:
+    5.1 Se estiver quente, isso significa que ela está relacionada ao interruptor que foi ligado e, em seguida, desligado.
+    5.2 Se estiver fria, isso indica que está relacionada ao interruptor que nunca foi acionado.
 ```
 
 5. Questão 5
